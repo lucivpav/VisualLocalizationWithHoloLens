@@ -7,7 +7,7 @@ TODO: description
 * [InLocCIIRC Dataset](TODO)
 * [Dataset construction tool](TODO)
 * [MultiCameraPose](https://github.com/lucivpav/MultiCameraPose) TODO: this should be a clear fork of [the original codebase](https://github.com/tsattler/MultiCameraPose)
-* [Habitat](TODO)
+* [Habitat](https://github.com/lucivpav/Habitat)
 * [Utils](https://github.com/lucivpav/InLocCIIRC_utils)
 
 ## License
