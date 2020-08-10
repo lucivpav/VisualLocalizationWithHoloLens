@@ -1,4 +1,4 @@
-## Visual Localization with Holo Lens
+## Visual Localization with HoloLens
 TODO: description
 
 ### Sub-projects
