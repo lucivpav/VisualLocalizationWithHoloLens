@@ -4,7 +4,7 @@ TODO: description
 ### Sub-projects
 * [Master's thesis](https://github.com/lucivpav/masters-thesis)
 * [Demo](https://github.com/lucivpav/InLocCIIRC_demo)
-* InLocCIIRC Dataset (TODO)
+* [InLocCIIRC Dataset](https://data.ciirc.cvut.cz/public/projects/2020VisualLocalization/InLocCIIRC)
 * [Dataset construction tool](https://github.com/lucivpav/InLocCIIRC_dataset)
 * [MultiCameraPose](https://github.com/lucivpav/MultiCameraPose)
 * [Habitat](https://github.com/lucivpav/Habitat)
