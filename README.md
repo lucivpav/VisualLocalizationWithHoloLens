@@ -1,5 +1,5 @@
 ## Visual Localization with HoloLens
-[PDF](https://dspace.cvut.cz/bitstream/handle/10467/90021/F3-DP-2020-Lucivnak-Pavel-Visual%20Localization%20with%20HoloLens.pdf?sequence=-1&isAllowed=y)
+[PDF](https://github.com/lucivpav/masters-thesis/releases/download/as-submitted/masters-thesis.pdf)
 
 ### Sub-projects
 * [Master's thesis](https://github.com/lucivpav/masters-thesis)
